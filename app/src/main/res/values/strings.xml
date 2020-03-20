@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="addShoppingList">Please insert new shopping list</string>
+    <string name="alert_addShoppingListContent">Please insert ShoppingListContent</string>
+    <string name="context_editItem">Edit Item</string>
+    <string name="context_deleteItem">Delete Item</string>
+    <string name="option_deleteAllItems">Delete all items</string>
+    <string name="option_addShoppingList">Add Item</string>
+    <string name="nameofItem">Name of Item</string>
+    <string name="itemsCreateDate">01.01.2020</string>
+    <string name="itemsDoneDate">30.01.2020</string>
+    <string name="option_addItem">Add Item</string>
+    <string name="option_deleteAll">Delete All</string>
+    <string name="option_backToShoppingLists">Back</string>
+</resources>
